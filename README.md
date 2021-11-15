@@ -1,6 +1,8 @@
 # Steering_Controller_for_RCcar
 How to make the steering controller for RC car
 ラジコンカー用ステアリングコントローラー制作
+<br>
+(執筆中。少しずつ更新していく予定)
 ## 概要
 * ラジコンカーをステアリングコントローラーで操作できるようにする。
 * 市販のステアリングコントローラーをプロポに接続するためのアダプターを制作。
@@ -27,7 +29,7 @@ How to make the steering controller for RC car
 
 
 ## 使用アイテム
-* RCカー：1/10スケール　タミヤ　コミカルマイティフロッグにてテスト
+* RCカー：1/10スケール　タミヤ　コミカルマイティフロッグ
 * プロポ：fine spec 2.4G
 * ステアリングコントローラー：Logicool
 * arduino uno ×２個
@@ -38,4 +40,11 @@ How to make the steering controller for RC car
 
 
 ## 製作手順
+### プロポ改造
+1. プロポを分解し、ステアリングとアクセルのコントロール用の可変抵抗を取り外す。プロポにもよるが、基盤に直接3点止めで半田付けされているため、半田吸引器が必須。
+2. 
+### ステアリングコントローラ
+
+### 変換基盤の製作
+
 ## パラメータ調整
