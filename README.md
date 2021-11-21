@@ -28,6 +28,8 @@ How to make the steering controller for RC car
 4. DAコンバータからアナログ電圧をプロポへ出力する。
 
 ### 回路図
+電源は9v,5v,3.3vを使い分けているため注意のこと。
+<br>
 ![回路図](./circuit_diagram.PNG)
 
 ## 使用アイテム
